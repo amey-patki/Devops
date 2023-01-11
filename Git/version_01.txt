@@ -6,7 +6,7 @@ After bug fixing, this is the new feature with minor alteration
 
 This is the advancement of previous feature
 
-Added few more changes to make it more optimized.
+Added few more changes to make more optmized
 
 This is dev branch added feature
 
