@@ -2,5 +2,7 @@ This is first feature of our application
 
 This is the bug fix in development branch
 
+After bug fixing, this is the new feature with minor alteration
+
 This is dev branch added feature
 
